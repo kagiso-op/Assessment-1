@@ -1,7 +1,20 @@
-ST10477287_GITHUB repository:
+ST10477287_GITHUB repository: https://github.com/kagiso-op/Assessment-1.git
 
 ST10477287_youtube link:
 
+![Capture](https://github.com/user-attachments/assets/85dd194d-03b3-44c8-9a08-f3feb3bdefdd)
+
+![afternoon](https://github.com/user-attachments/assets/67e2b695-2e40-43c0-bb13-3d7157cdb5e0)
+
+![fruits](https://github.com/user-attachments/assets/3ac19275-eaa7-4802-9471-365620449060)
+
+![cake](https://github.com/user-attachments/assets/de13a5f3-7948-4072-b084-234d00b40c1f)
+
+![desert](https://github.com/user-attachments/assets/b048e425-a5c2-4243-ba72-1a6a30863813)
+
+![desert ice cream](https://github.com/user-attachments/assets/16aad64a-b1a5-45d6-b35a-71635a596afc)
+
+![error](https://github.com/user-attachments/assets/4342cd51-7d8a-4d8b-9587-bdcf8231d4f2)
 
 This kotlin programme is able to help you with suggestions on what you may want to eat by giving photos and photos and what you may want to eat
 
