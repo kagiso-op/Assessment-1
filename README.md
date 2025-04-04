@@ -12,7 +12,7 @@ ST10477287_youtube link:
 
 ![desert](https://github.com/user-attachments/assets/b048e425-a5c2-4243-ba72-1a6a30863813)
 
-![desert ice cream](https://github.com/user-attachments/assets/16aad64a-b1a5-45d6-b35a-71635a596afc)
+![ice cream desert](https://github.com/user-attachments/assets/d5651760-58c3-45f2-8bd3-a34ccde5e2eb)
 
 ![error](https://github.com/user-attachments/assets/4342cd51-7d8a-4d8b-9587-bdcf8231d4f2)
 
